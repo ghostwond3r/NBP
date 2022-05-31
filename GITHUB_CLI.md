@@ -1,9 +1,9 @@
 # Github Cheatsheet for command line
+</br>
 
 -------------------------------------------
-> Items contained in [ ] are optional and all caps words should be replaced, except "HEAD".
+* Items contained in [ ] are optional and all caps words should be replaced, except "HEAD".
 -------------------------------------------
-</br>
 </br>
 
 ### Just installed Git ?
