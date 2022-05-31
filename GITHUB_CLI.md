@@ -1,6 +1,8 @@
-# Git Cheatsheet
+# Github Cheatsheet for command line
 
-Note: Items contained in [ ] are optional and all caps words should be replaced, except "HEAD".
+-------------------------------------------
+> Items contained in [ ] are optional and all caps words should be replaced, except "HEAD".
+-------------------------------------------
 </br>
 </br>
 
