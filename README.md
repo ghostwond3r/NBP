@@ -9,6 +9,19 @@
 -----------------------------------
 
 ![photostudio_1648766910395](https://user-images.githubusercontent.com/64184513/171076956-59c3a8c4-1b4e-4972-ae4f-4129ca0180e7.png)
+
+# Dedicated Space 
+
+ > https://start.me/p/MEDrOn/newblood
+ 
+ > https://start.me/p/MEDrOn/knowIT
+ 
+ > https://github.com/NeverWonderLand/no-more
+ 
+ > https://github.com/NeverWonderLand/ressources_learning
+ 
+ > https://github.com/NeverWonderLand/telegram_channel
+
 ---------------------
 > WE ARE HERE TO HELP YOU - WE ARE HERE TO SUPPORT YOU - WE ARE | YOU
 --------------------
