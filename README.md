@@ -23,11 +23,11 @@
   > https://github.com/NeverWonderLand/telegram_channel
 
 ---------------------
-## WE ARE HERE TO HELP YOU - WE ARE HERE TO SUPPORT YOU - WE ARE | YOU
+## WE ARE HERE TO HELP YOU - WE ARE | YOU
 --------------------
 ![cropped-science-anonymous-l](https://user-images.githubusercontent.com/64184513/171263649-4a26e75e-5371-41d7-9e5d-9df629c41827.jpg)
 --------------------
-## ASK WHEN YOU DONT KNOW - WE ALL STILL LEARN SOMETHING
+### ASK WHEN YOU DONT KNOW - WE ALL STILL LEARN SOMETHING
 -------------------
 ![Anonymous](https://user-images.githubusercontent.com/64184513/171263895-ef0fafc8-24c9-4f0b-81c4-8d114629fff3.jpg)
 -------------------
