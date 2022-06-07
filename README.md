@@ -23,11 +23,24 @@
   > https://github.com/NeverWonderLand/telegram_channel
 
  • More to come
+ 
 ---------------------
 ## LEARN TO ACT - INSTEAD OF REACT
 --------------------
 ![cropped-science-anonymous-l](https://user-images.githubusercontent.com/64184513/171263649-4a26e75e-5371-41d7-9e5d-9df629c41827.jpg)
 --------------------
+### I suggest
+
+> https://github.com/ghostsec420/SCPA
+
+> https://www.hackers-arise.com/linux-fundamentals
+
+> https://pentestbook.six2dez.com/recon/public-info-gathering
+
+> https://hacktronian.in/resources.html
+
+> https://ss64.com/bash/
+
 ### LEARN TO HACK - INSTEAD OF BEEN HACKED
 -------------------
 ![Anonymous](https://user-images.githubusercontent.com/64184513/171263895-ef0fafc8-24c9-4f0b-81c4-8d114629fff3.jpg)
