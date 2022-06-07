@@ -1,5 +1,7 @@
 # How setup proxychains4 on kali OS
-### - Each step are done by command line (in your terminal)
+### - Each step are done by command line (in your terminal). 
+</br>
+I also suggest to watch the video from networkchuck (https://www.youtube.com/watch?v=qsA8zREbt6g)
 
 ## 1. open your terminal and switch to root
 
@@ -28,22 +30,9 @@
         - at line 161, besure sure you have tor default; socks4 127.0.0.1 9050
         - under line 161, you can add your proxy like this; 
   
-                ===============================
-                # SOCKS5 PROXIES 
-                ===============================
-
                 socks5 192.252.208.67 14287
-                socks5 72.221.171.130 4145
-                socks5 31.128.248.2 1080
-                etc...
-
-                ===============================
-                # HTTP PROXIES 
-                ===============================
-
-                http 47.74.24.169 80
-                http 144.172.73.50 8080
-                http 51.161.27.96 80
+                socks5 72.221.171.130 4145             
+                http 47.74.24.169 80           
                 etc..
 
 * *It does not have a minimum / maximum required, you can also use only HTTP same as only SOCKS5.
