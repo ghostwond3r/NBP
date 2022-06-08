@@ -41,6 +41,10 @@
 
 > https://ss64.com/bash/
 
+> https://book.hacktricks.xyz/welcome/getting-started-in-hacking
+        or via github; https://github.com/carlospolop/hacktricks
+        
+
 ### LEARN TO HACK - INSTEAD OF BEEN HACKED
 -------------------
 ![Anonymous](https://user-images.githubusercontent.com/64184513/171263895-ef0fafc8-24c9-4f0b-81c4-8d114629fff3.jpg)
