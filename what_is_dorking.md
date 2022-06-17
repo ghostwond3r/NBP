@@ -56,9 +56,11 @@ The most popular Google Dorks and what they do.
 
 - `site`: will show you the full list of all indexed URLs for the specified domain and subdomain, e.g. `site:securitytrails.com` 
 
+- `ext`: will extract files from a given website, e.g. `site:*.gov ext:csv`.
+
 - `*`: wildcard used to search pages that contain “anything” before your word, e.g. `how to * a website`, will return “how to…” design/create/hack, etc… “a website”. 
 
-- `|`: this is a logical operator, e.g. `"security" "tips"` will show all the sites which contain “security” or “tips,” or both words. 
+- `|`: this is a logical operator, e.g. `intext:security|tips` will show all the sites which contain “security” OR “tips,” or both words. 
 
 - `+`: used to concatenate words, useful to detect pages that use more than one specific key, e.g. `security + trails` 
 
