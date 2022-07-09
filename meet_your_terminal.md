@@ -1,4 +1,4 @@
-## Linux Exercise - Meet your terminal
+## Linux Exercises - Meet your terminal
 
 
 1. Explain what each of the following commands does and give an example on how to use it: 
