@@ -57,13 +57,13 @@
 
 11. Explain piping. How do you perform piping?
 
-12. How do can you find a file using it name or a part of it ?
+12. How can you find a file using its name or a part of it ?
 
 13. How to check which commands you executed in the past?
 
 14. How do you keep your packages up to date ? When it is need ?
 
-15. How can you see you network settings from the terminal ?
+15. How can you see your network interface settings ?
 
 16. How can you manage routing, devices and tunnels ?
 
