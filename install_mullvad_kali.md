@@ -10,14 +10,14 @@
 
 ### Install Mullvad
 
-    sudo apt install -y ./MullvadVPN-2022.1_amd64.deb
+    sudo apt install -y ./MullvadVPN-2022.3_amd64.deb
 
 
 ### To see all option just write this and press enter
     mullvad
 
 ### To set your account write this, and they will prompt you to enter your account number
-    mullvad account set 
+    mullvad account login
 
 ### Start and connect to it
     mullvad connect
