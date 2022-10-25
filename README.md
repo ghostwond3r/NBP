@@ -12,6 +12,8 @@
 
 ### Dedicated Space Made by me and up to date
 
+  > https://github.com/NeverWonderLand/Self-Way
+
   > https://github.com/NeverWonderLand/kali-inst-guide
 
   > https://github.com/NeverWonderLand/ghostpack
