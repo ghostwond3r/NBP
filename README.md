@@ -12,12 +12,16 @@
 
 ### Dedicated Space Made by me and up to date
 
+  > https://github.com/NeverWonderLand/nbp-persian
+
   > https://github.com/NeverWonderLand/Self-Way
 
   > https://github.com/NeverWonderLand/kali-inst-guide
 
   > https://github.com/NeverWonderLand/ghostpack
   
+  > https://start.me/p/ydjlMm/voices
+
   > https://start.me/p/MEDrOn/newblood
  
   > https://start.me/p/MEDrOn/knowIT
@@ -30,7 +34,9 @@
 
   > https://github.com/NeverWonderLand/tellme
 
- • More to come
+## Telegram chanel
+
+  > https://t.me/NewBlood_Project
  
 ---------------------
 ## LEARN TO ACT - INSTEAD OF REACT
