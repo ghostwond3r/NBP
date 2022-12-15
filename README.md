@@ -1,4 +1,6 @@
------------------------------------
+[English](https://github.com/NeverWonderLand/NBP) | [Spanish](https://github.com/SobrioRiot/NBP-ES) | [Persan](https://github.com/NeverWonderLand/nbp-persian)
+
+
 ## Welcome to N.B.P. - The official New Blood Project !
 
 *For the people, by the people.*
