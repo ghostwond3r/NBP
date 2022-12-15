@@ -1,21 +1,16 @@
 [English](https://github.com/NeverWonderLand/NBP) | [Spanish](https://github.com/SobrioRiot/NBP-ES) | [Persan](https://github.com/NeverWonderLand/nbp-persian)
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=🤖%20Welcome%20to%20the%20New%20Blood%20Project%20🤖&width=1100&height=100)](https://github.com/Akshay090/svg-banners)
 
-## Welcome to N.B.P. - The official New Blood Project !
-
-*For the people, by the people.*
-
-<br>
-
-> The objective is to focus on the essentials, to learn what is in the actual.
+> Learn all related to hacktivism
 
 > For any suggestion or contribution you can contact me on Twitter at @wond3rghost
 
------------------------------------
+## Telegram chanel
 
-![photostudio_1652473163843](https://user-images.githubusercontent.com/64184513/171743001-02a4baac-b08d-489d-8ec1-998b6f8436f2.png)
+  > https://t.me/NewBlood_Project
 
-### Dedicated Space Made by me and up to date
+## Dedicated Space
 
   > https://github.com/NeverWonderLand/nbp-persian
 
@@ -39,15 +34,12 @@
 
   > https://github.com/NeverWonderLand/tellme
 
-## Telegram chanel
-
-  > https://t.me/NewBlood_Project
  
 ---------------------
 ## LEARN TO ACT - INSTEAD OF REACT
---------------------
 ![cropped-science-anonymous-l](https://user-images.githubusercontent.com/64184513/171263649-4a26e75e-5371-41d7-9e5d-9df629c41827.jpg)
 --------------------
+
 ### I suggest
 
 > https://github.com/ghostsec420/SCPA
@@ -63,10 +55,10 @@
 > https://book.hacktricks.xyz/welcome/getting-started-in-hacking
         or via github; https://github.com/carlospolop/hacktricks
         
-
-### LEARN TO HACK - INSTEAD OF BEEN HACKED
 -------------------
+## LEARN TO HACK - INSTEAD OF BEEN HACKED
 ![Anonymous](https://user-images.githubusercontent.com/64184513/171263895-ef0fafc8-24c9-4f0b-81c4-8d114629fff3.jpg)
 -------------------
+
 ## WHEN IT DOESN'T WORK, TRY AGAIN
 ## IF YOU ARE WITHOUT SOLUTION - THEN CREATE A SOLUTION
