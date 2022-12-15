@@ -1,11 +1,14 @@
 -----------------------------------
 ## Welcome to N.B.P. - The official New Blood Project !
 
-    The goal here is to help by providing some ressources and knowledge. For the people, by the people.
+*For the people, by the people.*
+
+<br>
 
 > The objective is to focus on the essentials, to learn what is in the actual.
 
-> Still in work! For any suggestion or contribution you can contact me on Twitter at @wond3rghost
+> For any suggestion or contribution you can contact me on Twitter at @wond3rghost
+
 -----------------------------------
 
 ![photostudio_1652473163843](https://user-images.githubusercontent.com/64184513/171743001-02a4baac-b08d-489d-8ec1-998b6f8436f2.png)
