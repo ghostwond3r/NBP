@@ -1,4 +1,4 @@
-[English](https://github.com/NeverWonderLand/NBP) | [Spanish](https://github.com/SobrioRiot/NBP-ES) | [Persan](https://github.com/NeverWonderLand/nbp-persian)
+[English](https://github.com/NeverWonderLand/NBP) | [Persan](https://github.com/NeverWonderLand/nbp-persian)
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=🤖%20Welcome%20to%20the%20New%20Blood%20Project%20🤖&width=1100&height=100)](https://github.com/Akshay090/svg-banners)
 
